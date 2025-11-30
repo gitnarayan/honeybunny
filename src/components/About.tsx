@@ -17,7 +17,7 @@ export default function About() {
               We believe in the power of quality, attention to detail, and a whole lot of love.
             </p>
             <p className="text-lg text-gray-700">
-              From classic flavors to custom designs, we're here to make your special moments 
+              From classic flavors to custom designs, we&apos;re here to make your special moments 
               even more memorable with our delightful creations.
             </p>
           </div>
